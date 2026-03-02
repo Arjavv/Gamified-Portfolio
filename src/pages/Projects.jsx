@@ -10,7 +10,7 @@ const Projects = () => {
     },
     {
       title: 'Portfolio',
-      desc: 'An interactive portfolio with RPG elements, quests, and a retro UI.',
+      desc: 'A personal portfolio built as an interactive system, blending a retro UI with gamified progress to showcase projects, skills, and technical depth.',
       tech: ['React', 'Tailwind', 'Framer Motion'],
       link: 'https://arjavdariya.vercel.app/',
     },
