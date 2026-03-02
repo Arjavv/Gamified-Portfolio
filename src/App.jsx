@@ -9,11 +9,11 @@ function App() {
     <div className="flex flex-col h-screen bg-black text-white font-iceland overflow-hidden">
       <TerminalHeader />
 
-      <div className="flex flex-1 overflow-hidden">
+      <div className="flex flex-col lg:flex-row flex-1 overflow-auto lg:overflow-hidden relative">
         <Sidebar />
         {/* Main content and ActiveQuestPanel side by side */}
-        <div className="flex flex-1 h-full">
-          <div className="flex-1 relative">
+        <div className="flex flex-col lg:flex-row w-full lg:flex-1 lg:h-full">
+          <div className="w-full lg:flex-1 relative lg:pr-[350px]">
             <Outlet />
           </div>
           <ActiveQuestPanel />

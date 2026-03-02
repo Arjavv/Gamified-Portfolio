@@ -5,7 +5,7 @@ import rewardIcon2 from '../assets/reward2.png';
 
 const ActiveQuestPanel = () => {
   return (
-    <div className="absolute top-0 right-0 h-full w-[350px] bg-black/70 text-gray-200 border-l border-red-500 p-6 font-iceland z-20 overflow-y-auto relative">
+    <div className="relative w-full h-auto border-t lg:border-t-0 border-l-0 lg:border-l lg:absolute lg:top-0 lg:right-0 lg:h-full lg:w-[350px] bg-black/70 text-gray-200 border-red-500 p-6 font-iceland z-20 overflow-y-auto">
       {/* Header */}
       <h2 className="text-red-500 font-bold text-2xl tracking-widest flex items-center gap-2">
         ACTIVE QUEST <span className="border border-red-500 px-1 rounded-sm scale-75">🛡</span>
