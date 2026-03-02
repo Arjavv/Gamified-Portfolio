@@ -1,5 +1,5 @@
 import React from 'react';
-import { createBrowserRouter } from 'react-router-dom';
+import { createHashRouter } from 'react-router-dom';
 
 import App from '../App';
 import Home from '../pages/Home';
@@ -8,7 +8,7 @@ import Projects from '../pages/Projects';
 import BeyondAcademics from '../pages/BeyondAcademics';
 import About from '../pages/About';
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: '/',
     element: <App />,
@@ -35,8 +35,6 @@ const router = createBrowserRouter([
       }
     ]
   }
-], {
-  basename: import.meta.env.BASE_URL
-});
+]);
 
 export default router;
