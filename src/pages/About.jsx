@@ -5,20 +5,14 @@ const About = () => {
     <div className="p-6 text-white font-iceland h-full">
       <h1 className="text-3xl text-red-500 border-b border-red-500 mb-4 tracking-widest">/ABOUT ME</h1>
       <p className="text-gray-300 leading-relaxed">
-       I’m Arjav Dariya, a creator at heart, a technologist by training, and a lifelong learner by choice
+       I’m Arjav Dariya, an engineering student who enjoys building at the intersection of logic, design, and technology. I work across web development, backend systems, and machine learning, with a focus on creating projects that are both functional and thoughtfully designed.
 
-Currently pursuing my B.Tech from SGSITS Indore, I find inspiration at the intersection of design, code, and rhythm. Whether it's crafting intuitive user interfaces or diving into emerging technologies, I thrive when logic meets creativity especially when the music is on and the code flows
+I’m driven by curiosity and learn best by building. Whether it’s crafting clean user interfaces, designing APIs, or experimenting with data-driven models, I enjoy turning ideas into working systems. I value clarity in code, intention in design, and the satisfaction of seeing complex pieces come together into something useful.
 
-I call it vibe coding. Those focused moments where everything aligns: clear thoughts, smooth beats, and beautiful builds. It’s not just about writing code; it’s about creating something that feels alive
-
-My work is driven by curiosity, refined by intention, and shaped by the desire to turn ideas into meaningful experiences. I value aesthetic clarity, purposeful design, and the quiet satisfaction of seeing something come together just right
-
-Outside the screen, I’m deeply inspired by sound, mood, and storytelling. I believe the best work happens when you’re fully immersed, not just working, but feeling it
-
-This is my journey and I’m here to build, learn, and create with heart
+Outside the screen, I draw inspiration from sound, rhythm, and storytelling. I believe good work happens when focus is deep and the process feels natural. This portfolio reflects my ongoing journey of learning, building, and improving one project at a time.
       </p>
       <p className="mt-4 text-gray-400">
-        On a journey through the digital realm exploring diverse domains while leveling up my skills one quest at a time.
+        On a continuous skill progression path, exploring systems, design, and problem solving one build at a time.
       </p>
       <div className="mt-6 text-sm text-red-400">
         <p>B.Tech in Electronics & Instrumentation at SGSITS Indore</p>

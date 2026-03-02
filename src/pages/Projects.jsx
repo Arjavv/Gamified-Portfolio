@@ -18,9 +18,9 @@ const Projects = () => {
       tech: ['Figma', 'UX Design'],
     },
     {
-      title: 'ToDo List',
-      desc: 'Gamified to-do list that earns XP on task completion.',
-      tech: ['HTML', 'CSS', 'JavaScript'],
+      title: 'Advanced Stock Trend Predictor',
+      desc: 'Machine learning–based system for analyzing stock trends using historical market data and technical indicators. Provides short- and long-term trend insights through an interactive interface.',
+      tech: ['Python', 'Pandas', 'Scikit Learn'],
     },
 
   ];

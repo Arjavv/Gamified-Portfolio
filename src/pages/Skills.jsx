@@ -1,11 +1,11 @@
 import React from 'react';
 
 const skills = {
-  'Frontend': ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind CSS', 'Framer Motion'],
-  'Backend': ['Node.js', 'Express.js', 'MongoDB'],
-  'Tools': ['Figma', 'Git', 'GitHub', 'Vite', 'Postman'],
-  'Languages': ['C/C++', 'JavaScript', 'Python'],
-  'AI & Productivity Tools': ['ChatGPT', 'GitHub Copilot', 'Cursor IDE'],
+  Frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind CSS'],
+  Backend: ['Node.js', 'Express.js', 'MongoDB'],
+  AI_ML: ['Python', 'Pandas', 'Scikit-learn'],
+  Tools: ['Git', 'GitHub', 'Postman', 'Vite', 'Figma'],
+  Languages: ['C/C++', 'JavaScript', 'Python']
 };
 
 const Skills = () => {

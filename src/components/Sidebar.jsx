@@ -25,7 +25,7 @@ const Sidebar = () => {
 
       <div className="mb-6 order-3 lg:order-none">
         <h3 className="text-l tracking-widest text-gray-400">DEPLOYED AS</h3>
-        <p className="text-2xl font-bold text-red-500">WEB DEVELOPER + UI/UX</p>
+        <p className="text-2xl font-bold text-red-500">WEB DEV + UI/UX + M.L.</p>
       </div>
 
       <div className="mb-6 order-4 lg:order-none">

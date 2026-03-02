@@ -13,7 +13,7 @@ const ActiveQuestPanel = () => {
 
       {/* Title */}
       <p className="bg-zinc-900 text-base tracking-wide py-1 px-2 mt-2 border-l-2 border-red-500">
-        THE FULL STACK ASCENSION ARC
+        TECHNICAL DEPTH PROGRESSION
       </p>
 
       {/* Subtitle */}
